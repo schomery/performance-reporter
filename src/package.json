@@ -1,0 +1,23 @@
+{
+  "title": "Performance Reporter",
+  "name": "ipreporter",
+  "id": "jid1-PnE4Kyof4MJ8BA",
+  "description": "Displays extensions and tabs CPU and memory usage",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1.0",
+  "preferences": [
+    {
+        "type": "integer",
+        "name": "width",
+        "value": 500,
+        "title": "Panel width in pixels"
+    },
+    {
+        "type": "integer",
+        "name": "height",
+        "value": 500,
+        "title": "Panel height in pixels"
+    }
+  ]
+}
